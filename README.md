@@ -1,4 +1,6 @@
 Tugas 1 week 6 datastructure
+<br>Path kode : https://github.com/Jeayam/DS-W6.1-JonathanAdrieLivanno/blob/main/src/Main.java
+<br>
 <br><br>Cara penggunaan:
 <br>    contoh input    : 10 20 30 40 50 60 70
 <br>    contoh ouput    : Umur - umur yang lolos [30 50 60 70]
