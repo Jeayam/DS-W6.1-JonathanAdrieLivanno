@@ -1,18 +1,8 @@
-## Getting Started
+Tugas 1 week 6 datastructure
+<br><br>Cara penggunaan:
+<br>    contoh input    : 10 20 30 40 50 60 70
+<br>    contoh ouput    : Umur - umur yang lolos [30 50 60 70]
+<br>                      Umur - umur yang tidak lolos [10 20]
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<br>penjelasan : 1. kode mensortir umur dibawah sama dengan 118, dan diatas sama dengan 28
+<br>             2. Inputan harus di antara 1-1000, jika dibawah atau di atasnya program utama tidak akan jalan
